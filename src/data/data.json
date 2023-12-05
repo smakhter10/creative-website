@@ -1,0 +1,170 @@
+{
+      "logo": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/301897223_603518784676936_4560680351638676970_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFPawXENbAFz7oHr2RoWd7DBvrrszf9rMUG-uuzN_2sxRBimjAHtjV15Tg4xZBZ5CBLgX-UyWGqZltLewsMCo3F&_nc_ohc=08TCB0_edwQAX-7KCOh&_nc_ht=scontent.fdac24-4.fna&oh=00_AfBk-P8nJw28n4BAWo4kPAEWPeuI6KUhaqntLMb2WgPOpA&oe=656DE588",
+
+      "products": [
+            {
+                  "id": "1",
+                  "category": "scrapbook",
+                  "image": "./pictures/data/products/scrapbook/1.jpg",
+                  "description": "lorem23 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "2",
+                  "category": "scrapbook",
+                  "image": "./pictures/data/products/scrapbook/2.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "3",
+                  "category": "scrapbook",
+                  "image": "./pictures/data/products/scrapbook/3.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "4",
+                  "category": "bottlepaint",
+                  "image": "./pictures/data/products/bottlepaint/1.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "5",
+                  "category": "bottlepaint",
+                  "image": "./pictures/data/products/bottlepaint/2.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "6",
+                  "category": "bottlepaint",
+                  "image": "./pictures/data/products/bottlepaint/3.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "7",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/1.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "8",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/2.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "9",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/3.jpg",
+                  "description": "lorem"
+            },
+            {
+                  "id": "10",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/4.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "11",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/5.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "12",
+                  "category": "event decoration",
+                  "image": "./pictures/data/products/event/1.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "13",
+                  "category": "event decoration",
+                  "image": "./pictures/data/products/event/2.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "14",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/1.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "15",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/2.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "16",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/3.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "17",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/4.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "18",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/5.jpg",
+                  "description": "lorem"
+            },
+            {
+                  "id": "19",
+                  "category": "giftbox",
+                  "image": "./pictures/data/products/giftbox/6.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "20",
+                  "category": "scrapbook",
+                  "image": "./pictures/data/products/scrapbook/4.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "21",
+                  "category": "bottlepaint",
+                  "image": "./pictures/data/products/bottlepaint/4.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            },
+            {
+                  "id": "22",
+                  "category": "canvas",
+                  "image": "./pictures/data/products/canvas/6.jpg",
+                  "description": "lorem Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ornare odio nulla, et suscipit neque cursus a. Vestibulum purus dolor, interdum non mauris sit amet, ornare aliquet risus. Sed finibus sem nec risus aliquet placerat. Pellentesque elementum urna erat, sit amet"
+            }
+      ],
+      
+      "videos": [
+            {
+                  "name": "Redmi Note 10 Pro Max",
+                  "image": "https://i02.appmifile.com/769_operator_in/26/04/2021/2fab525c022f0d6c0dba8a6edcf12060.png?width=398&height=320"
+            },
+            {
+                  "name": "Mi 10",
+                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/2461CE83-F535-6B92-CBEE-5971984298E4.jpg?width=398&height=320"
+            },
+            {
+                  "name": "Mi MIX Alpha",
+                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/FD2BD776-5489-44CA-F05A-C20C232A4848.jpg?width=398&height=320"
+            }
+      ],
+
+      "recent": [
+            
+            {
+                  "name": "Event Decoration",
+                  "image": "./pictures/data/recent-1.jpg"
+            },
+            {
+                  "name": "Canvas",
+                  "image": "./pictures/data/recent-2.jpg"
+            },
+            {
+                  "name": "Canvas",
+                  "image": "./pictures/data/recent-3.jpg"
+            }
+      ]
+     
+}
